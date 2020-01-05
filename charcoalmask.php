@@ -11,7 +11,6 @@ include_once 'head.php';
 		<p>Although there is limited research into the skin benefits of activated charcoal, some skin care experts believe a charcoal mask can help your skin in the following ways:</p>
 	</div>
 	<div class="row">
-		
 		<ul>
 			<li><b>Removes impurities</b><br>
 				<p>Because research has shown that activated charcoal can absorb toxins in your body, some beauty experts believe that a charcoal face mask can help draw impurities and dirt from your skin.</p>
@@ -24,6 +23,12 @@ include_once 'head.php';
 			</li>
 		</ul>
 	</div>
+	<div class="row">
+		<h3>What’s activated charcoal?</h3>
+		<p>Activated charcoal, also called activated carbon, is a fine black powder that’s produced when common charcoal is exposed to high heat. This exposure creates tiny internal spaces or holes in the charcoal, making it highly absorbent and able to trap chemicals and toxins.</p>
+		<p>Although it’s a type of charcoal, activated charcoal is different from the charcoal used on an outdoor grill.</p>
+	</div>
+	
 </div>
 
 <?php

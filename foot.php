@@ -3,7 +3,7 @@
 <div class="container">
 <div class="row">
 <div class="col-sm-3">
-<h5>Information</h5>
+<h4>Information</h4>
 <ul class="list-unstyled">
 <li><a href="">About Us</a></li>
 <li><a href="">Privacy Policy</a></li>
@@ -11,7 +11,7 @@
 </ul>
 </div>
 <div class="col-sm-3">
-<h5>Customer Service</h5>
+<h4>Customer Service</h4>
 <ul class="list-unstyled">
 <li><a href="">Contact Us</a></li>
 <li><a href="">Returns</a></li>
@@ -19,7 +19,7 @@
 </ul>
 </div>
 <div class="col-sm-3">
-<h5>Products</h5>
+<h4>Products</h4>
 <ul class="list-unstyled">
 <li><a href="">Slim-Fit</a></li>
 <li><a href="">Charcoal mask</a></li>
@@ -28,12 +28,15 @@
 </ul>
 </div>
 <div class="col-sm-3">
-<h5>My Account</h5>
+<h4>Reach Us At</h4>
 <ul class="list-unstyled">
-<li><a href="">My Account</a></li>
-<li><a href="">Order History</a></li>
-<li><a href="">Wish List</a></li>
-<li><a href="">Newsletter</a></li>
+<li><b>Sanchi Wellness Solutions</b><br>
+36, Ramnagari,<br> 43/B1, katraj dehuroad bypass,<br>
+ Behind D'Mart, Ambegaon,<br> Pune 46<br> 
+Maharashtra
+<br><br>
+WhatsApp: +91 7387382367
+</li>
 </ul>
 </div>
 </div>
